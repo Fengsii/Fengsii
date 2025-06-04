@@ -17,13 +17,17 @@
 
 ---
 
-## 🎮 Interactive Snake Game
+## 🐍 Animated Snake Game - Eating My Contributions!
+
 <div align="center">
   
-**Watch my contributions get eaten by the snake!** 🐍
+**Watch the snake devour my GitHub contributions in real-time!** 🎮
   
-![GitHub Snake](https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake](https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -165,16 +169,6 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-efengsi.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-</div>
-
----
-
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
@@ -253,6 +247,6 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-*Last updated: June 2025*
+*Last updated: June 2025 • Snake updates every 12 hours* 🐍
 
 </div>
