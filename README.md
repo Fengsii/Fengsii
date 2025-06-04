@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20Efengsi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20.NET%20Developer%20|%20Back-End%20Developer%20Lover&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20Efengsi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20.NET%20Developer%20|%20Back-End%20Developer&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <p>
