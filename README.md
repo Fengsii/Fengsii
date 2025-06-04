@@ -73,4 +73,9 @@
 
 ---
 
+## 🐍 GitHub Snake
+
+![snake gif](https://github.com/Fengsii/Fengsii/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">🔥 Terima kasih telah berkunjung ke profil saya! Jangan lupa follow ya 😄</p>
