@@ -69,7 +69,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,vscode,visualstudio,postman,github&theme=dark" alt="Tools" />
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Cloud" />
 </p>
 
