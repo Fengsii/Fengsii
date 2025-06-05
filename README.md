@@ -87,24 +87,20 @@
 
 <div align="center">
 
-### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,cs,cpp,c,html,css&theme=dark" alt="Programming Languages" />
 </p>
 
-### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,dotnet,nodejs,express&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,vue,dotnet&theme=dark" alt="Frameworks" />
 </p>
 
-### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,docker,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,vscode&theme=dark" alt="Tools" />
 </p>
 
-### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,firebase&theme=dark" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Cloud" />
 </p>
 
 </div>
