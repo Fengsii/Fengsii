@@ -83,7 +83,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Languages and Tools
 
 <div align="center">
 
