@@ -17,11 +17,7 @@
 
 ---
 
-## 🐍 Animated Snake Game - Eating My Contributions!
-
 <div align="center">
-  
-**Watch the snake devour my GitHub contributions in real-time!** 🎮
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake-dark.svg">
