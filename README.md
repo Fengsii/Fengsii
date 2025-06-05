@@ -41,8 +41,6 @@
 🔸 **Focus:** Building scalable web applications  
 🔸 **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄  
 
-<img alt="Coding GIF" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 </div>
 
 <details>
