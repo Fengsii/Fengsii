@@ -31,7 +31,7 @@
 
 ## 🌈 About Me
 
-<div align="center">
+<div>
  
 ### 👨‍💻 Personal Info
         
