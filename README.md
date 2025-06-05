@@ -1,121 +1,263 @@
-# Efengsi Rahmanto Zalukhu
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Junior+Web+Developer;.NET+Developer;Backend+Specialist;Always+Learning+%26+Growing" alt="Typing Animation" />
-</div>
+# <div align="center">🌟 Welcome to My Profile 🌟</div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Efengsi%20Rahmanto%20Zalukhu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad88989999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20Efengsi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20.NET%20Developer%20|%20Back-End%20Developer&descAlignY=55&descSize=18" />
+
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Coding+Journey!+%F0%9F%9A%80;Building+Amazing+Web+Applications+%F0%9F%8C%90;Always+Learning+New+Technologies+%F0%9F%93%9A;Let's+Create+Something+Awesome!+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views Counter with Animation -->
+<img src="https://komarev.com/ghpvc/?username=Fengsii&style=for-the-badge&color=blueviolet&animated=true" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
-
-Saya adalah **Junior Web Developer** yang berfokus pada pengembangan backend dengan keahlian utama di **.NET** dan teknologi web modern. Memiliki passion dalam membangun aplikasi web yang scalable dan efficient, serta selalu antusias untuk mempelajari teknologi terbaru dalam dunia pengembangan software.
-
-- 📍 **Lokasi:** Indonesia
-- 🎯 **Spesialisasi:** Backend Development, Web Applications, Database Design
-- 🌱 **Sedang Belajar:** Advanced React Patterns, Microservices Architecture
-- 💼 **Terbuka untuk:** Full-time positions, Freelance projects, Kolaborasi
-
----
-
-## 🛠️ Keahlian Teknis
-
-### Bahasa Pemrograman
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Framework & Library
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💼 Pengalaman & Pencapaian
-
-- 🎓 **Pendidikan:** [Universitas/Institusi Anda]
-- 💻 **Fokus Pengembangan:** Fullstack Web Applications dengan emphasis pada Backend
-- 🔧 **Metodologi:** Agile Development, Clean Code Principles, Test-Driven Development
-- 📈 **Growth Mindset:** Aktif mengikuti perkembangan teknologi dan best practices
-
----
-
-## 📊 Statistik GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fengsii&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fengsii&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-</div>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fengsii&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🌈 About Me
 
-### [Nama Proyek 1] - E-Commerce Platform
-- **Tech Stack:** .NET Core, React, PostgreSQL
-- **Fitur:** User authentication, Payment integration, Admin dashboard
-- **Peran:** Backend Developer & Database Designer
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        
+### 👨‍💻 Personal Info
+        
+🔸 **Pronouns:** He/Him  
+🔸 **Location:** Indonesia 🇮🇩  
+🔸 **Role:** Junior Web Developer | .NET Developer | Back-End Developer  
+🔸 **Focus:** Building scalable web applications  
+🔸 **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄  
 
-### [Nama Proyek 2] - Task Management System
-- **Tech Stack:** Vue.js, Node.js, MongoDB
-- **Fitur:** Real-time collaboration, Role-based access, RESTful API
-- **Peran:** Fullstack Developer
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### [Nama Proyek 3] - Company Portfolio Website
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Fitur:** Responsive design, Performance optimization, SEO-friendly
-- **Peran:** Frontend Developer
+      </td>
+      <td valign="top" width="50%">
+        
+<img alt="Coding GIF" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🚀 Tech Stack
+**Frontend:** React, Vue.js, HTML5, CSS3, JavaScript  
+**Backend:** .NET, Node.js, Express  
+**Database:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Git, Docker, VS Code, Postman  
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary>🎯 More About Me (Click to expand!)</summary>
+<br>
+
+- 🔭 I'm currently working on **exciting fullstack projects**
+- 🌱 I'm currently learning **advanced React patterns & microservices**
+- 👯 I'm looking to collaborate on **open source projects**
+- 🤔 I'm looking for help with **system design and architecture**
+- 💬 Ask me about **web development, programming, or tech in general**
+- ⚡ Fun fact: **I can solve a Rubik's cube while thinking about code!**
+
+</details>
 
 ---
 
-## 🎯 Objektif Karir 2025
-
-- 🔍 **Immediate Goal:** Bergabung dengan tim development yang dinamis sebagai Junior/Mid-level Developer
-- 📚 **Learning Path:** Mendalami microservices architecture dan cloud technologies
-- 🌟 **Long-term Vision:** Menjadi Senior Developer yang dapat memimpin project dan mentor junior developers
-- 🤝 **Collaboration:** Berkontribusi pada open-source projects dan komunitas developer
-
----
-
-## 📫 Mari Berkolaborasi!
-
-Saya terbuka untuk diskusi mengenai:
-- 💼 **Kesempatan Kerja:** Full-time, Part-time, atau Freelance projects
-- 🤝 **Kolaborasi:** Open source contributions, Team projects
-- 💡 **Knowledge Sharing:** Technical discussions, Best practices
-- 🎯 **Mentorship:** Learning together, Skill development
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**"Code is poetry written in logic"** ✨
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cs,cpp,c,html,css&theme=dark" alt="Programming Languages" />
+</p>
 
-*Terima kasih telah mengunjungi profil saya. Mari berkarya bersama!* 🚀
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,dotnet&theme=dark" alt="Frameworks" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,vscode&theme=dark" alt="Tools" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Cloud" />
+</p>
+
+</div>
 
 ---
 
-⭐ **Star repositories yang menarik bagi Anda** | 📞 **Hubungi saya untuk diskusi lebih lanjut**
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fengsii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fengsii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fengsii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fengsii&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Fengsii&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🎯 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.2%
+C#           4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.6%
+HTML         2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.4%
+CSS          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    8.3%
+SQL          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    4.2%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/fengsii_rzzz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=pulse" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/Efengsi%20Rahmanto%20Zalukhu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ahmad88989999@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/Fengsii">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#21](https://github.com/Fengsii/awesome-project/pull/21) in [Fengsii/awesome-project](https://github.com/Fengsii/awesome-project)
+2. 💪 Opened PR [#18](https://github.com/Fengsii/web-app/pull/18) in [Fengsii/web-app](https://github.com/Fengsii/web-app)
+3. ❗️ Closed issue [#15](https://github.com/Fengsii/portfolio/issues/15) in [Fengsii/portfolio](https://github.com/Fengsii/portfolio)
+4. 🗣 Commented on [#12](https://github.com/Fengsii/react-components/issues/12) in [Fengsii/react-components](https://github.com/Fengsii/react-components)
+5. 🔥 Pushed 3 commits to [Fengsii/backend-api](https://github.com/Fengsii/backend-api)
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fengsii&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Efengsi's%20Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎯 Goals for 2025
+
+<div align="center">
+
+- [ ] 🚀 Launch 3 major open-source projects
+- [ ] 📚 Master advanced system design concepts
+- [ ] 🌟 Contribute to 10+ open-source repositories
+- [ ] 📝 Write 12 technical blog posts
+- [ ] 🎪 Speak at a tech conference
+- [ ] 💪 Reach 1000+ GitHub followers
+
+</div>
+
+---
+
+## 💡 Fun Section
+
+<details>
+<summary>🎲 Click for a random programming joke!</summary>
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+</div>
+</details>
+
+<details>
+<summary>🔮 My GitHub Fortune</summary>
+<div align="center">
+
+```
+🌟 The stars align in your favor, young developer!
+🚀 Your code shall compile on the first try today!
+☕ Coffee levels are optimal for maximum productivity!
+🐛 Bugs fear your debugging skills!
+💻 May your commits be atomic and your merges conflict-free!
+```
+
+</div>
+</details>
+
+---
+
+<div align="center">
+
+### 🎨 Profile README Generator
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+
+**Show some ❤️ by starring my repositories!**
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+
+---
+
+*Last updated: June 2025 • Snake updates every 12 hours* 🐍
 
 </div>
