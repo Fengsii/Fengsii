@@ -162,19 +162,9 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fengsii&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Efengsi's%20Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🎯 Goals for 2025
 
-<div align="center">
+<div>
 
 - [ ] 🚀 Launch 3 major open-source projects
 - [ ] 📚 Master advanced system design concepts
@@ -200,7 +190,7 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 
 <details>
 <summary>🔮 My GitHub Fortune</summary>
-<div align="center">
+<div>
 
 ```
 🌟 The stars align in your favor, young developer!
@@ -227,7 +217,5 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 
 ---
-
-*Last updated: June 2025 • Snake updates every 12 hours* 🐍
 
 </div>
